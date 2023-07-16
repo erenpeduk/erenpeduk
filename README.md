@@ -11,9 +11,9 @@
 <br>
  🔭 I know HTML, CSS, Bootstrap.
 <br>
-⚡I have Python selenium trials and projects.
-🔗 &nbsp;**Connect With Me**
-<a href="https://github.com/erenpeduk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+⚡I have Python selenium trials and projects.<br><br>
+🔗 &nbsp;Connect With Me: <br><br>
+<a href="https://github.com/erenpeduk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/erenpeduk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 
