@@ -7,7 +7,7 @@
 <br>
 
 <h2>I'm Eren Pedük, 2nd Year Software Engineering Student. Learning about JS currently.</h3>
- 🌱 I’m currently learning Javascript
+ 🌱 I’m currently learning Javascript, Node.js.
 <br>
  🔭 I know HTML, CSS, Bootstrap.
 <br>
