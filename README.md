@@ -6,7 +6,7 @@
 
 <br>
 
-<h2>I'm Eren Pedük, 2nd Year Software Engineering Student.</h3>
+<h2>I'm Eren Pedük, 3nd Year Software Engineering Student.</h3>
  🌱 I’m currently learning Javascript, Node.js.
 <br>
  🔭 I know HTML, CSS, Bootstrap.
